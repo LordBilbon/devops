@@ -1,0 +1,3 @@
+bob léponge bob@debian.bzh
+patrick létoile patrick@debian.bzh
+curt kobain curt@debian.bzh
